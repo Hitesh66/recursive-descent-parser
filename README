@@ -1,0 +1,7 @@
+Name:		Hitesh Dayaramani
+B-Number:	B00931700
+Email:		hdayara1@binghamton.edu
+
+To run the fileReadSync enter the following commands:
+npm intall
+npm install fs
